@@ -29,3 +29,5 @@ Como podemos ver também no video a seguir as frequêcias por estarem muito pró
 Ao final, com uma adaptação do código, foi possível até reproduzir pequenos trechos de músicas com o buzzer utilizando o mesmo padrão de designação de frequêcias ,apenas alterando-as e colocando em ordem a saida das notas.
 
 ![Alt Text](https://github.com/lucasquental/Piano/blob/master/imagem%203.jpg)
+
+#Código adaptado

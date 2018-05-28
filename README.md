@@ -23,6 +23,6 @@ verifica se há algum input. Caso haja o código manda um sinal ao buzzer para q
 
 Como podemos ver também no video a seguir as frequêcias por estarem muito próximas apenas parecem ser as mesmas, porém se prestarmos atenção conseguiremos diferenciar as frequências.
 
-![Alt Text](https://github.com/lucasquental/Piano/blob/master/ab51db3b-578e-4b27-8ede-0f67937d9dd1.mp4)
+![Alt Text](https://github.com/lucasquental/Piano/blob/master/Video%20teste.mp4)
 
 Ao final, com uma adaptação do código, foi possível até reproduzir pequenos trechos de músicas com o buzzer utilizando o mesmo padrão de designação de frequêcias apenas alterando as mesmas e a order se saida das notas.
